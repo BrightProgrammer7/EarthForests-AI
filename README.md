@@ -37,3 +37,4 @@ This information is then stored in a blockchain-based system, which ensures its 
 By leveraging this technology, LeafTrack acts as an early warning system for any changes in the vegetation layer, enabling reserve managers to make well-informed decisions in a timely manner. This can include identifying areas that require more attention or intervention, such as those affected by invasive species or climate change.
 https://github.com/VishalPachpor/Leaf-Track.git"# EarthForests-AI" 
 "# EarthForests-AI" 
+"# EarthForests-AI" 
