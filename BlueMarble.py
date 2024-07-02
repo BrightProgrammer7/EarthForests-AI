@@ -15,3 +15,4 @@ m.bluemarble()
 
 plt.title('Satellite Image of the Earth with Forest Cover')
 plt.show()
+
